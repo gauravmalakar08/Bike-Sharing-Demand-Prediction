@@ -55,4 +55,5 @@ Random-forest regression, XG–Boost regression, XG–Boost GridsearchCV Regress
 
 
 Credits:
-Gaurav Malakar, Anup A. Jambulkar, Ankit Walde, Anil Bhatt, Vibhu Sharma.
+
+[Gaurav Malakar](https://github.com/gauravmalakar08), [Anup A. Jambulkar](https://github.com/anup-anny), [Ankit Walde](https://github.com/AnkitWalde), [Anil Bhatt](https://github.com/anilbhatt-DataAnalyst), [Vibhu Sharma](https://github.com/vbhsharma7).
